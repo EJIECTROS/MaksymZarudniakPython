@@ -1,2 +1,2 @@
 # MaksymZarudniakPython
-print(Hello Pythons)
+print("Hello Pythons")
